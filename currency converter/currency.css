@@ -1,0 +1,131 @@
+body{
+
+margin: 0;
+padding: 0;
+
+}
+
+h1{
+
+text-align: center;
+color: white;
+background-color: crimson;
+padding: 10px;
+margin-top: 0;
+}
+
+form{
+    width: fit-content;
+    height: fit-content;
+    border:2px solid red;
+    padding: 30px;
+    border-radius: 10px; 
+    
+    position: relative;
+   
+    left: 40%;
+ 
+
+}
+form .dropdown{
+
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+gap: 10px;
+
+border-radius: 5px;
+
+}
+form .dropdown img{
+
+width: 30px;
+height: 35px;
+
+}
+
+form .dropdown div div{
+
+display: flex;
+background-color: lightgray;
+
+border-radius: 10px;
+
+}
+
+select{
+
+height: 25px;
+margin-top: 5px;
+
+cursor: pointer;
+
+}
+
+i{
+
+margin-top: 50px;
+
+
+}
+
+
+input{
+
+width: 100%;
+border-radius: 20px;
+border:2px solid lightgray ;
+height: 30px;
+
+}
+
+button{
+
+    padding: 10px 50px;
+font-size: 20px;
+color: white;
+background-color: blueviolet;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
